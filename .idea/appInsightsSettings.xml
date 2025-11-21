@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="ridho21nov.pml.myapplication" />
+                  <option name="mobileSdkAppId" value="1:845140679956:android:26722f7208ba3894ea3601" />
+                  <option name="projectId" value="pml-ridho-9a938" />
+                  <option name="projectNumber" value="845140679956" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
